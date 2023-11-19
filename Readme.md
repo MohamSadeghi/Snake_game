@@ -2,6 +2,6 @@
 </br>
 I am Mohammad!
 </br>
-this is a very simple <label>snake game</label> designed in vs code
+this is a very simple <i>snake game</i> designed in vs code
 and with cpp language and based on functional programming</br>
 #Snake_game
